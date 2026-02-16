@@ -1,0 +1,8 @@
+{
+  "name": "fitquest-app",
+  "version": "1.0.0",
+  "description": "FitQuest - Gamified Fitness App with AI-powered food analysis",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.32.1"
+  }
+}
